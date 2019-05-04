@@ -82,8 +82,6 @@ public class Responder
             String key = "";
             String map = "";
             
-            String currentLine = "";
-            
             while (key != null){
                 
                 key = reader.readLine();
